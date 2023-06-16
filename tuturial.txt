@@ -1,0 +1,8 @@
+try these commands in console
+    py -3 -m venv .venv
+    .venv\Scripts\activate
+    pip install flask
+
+Then install each module used in hello.py one by one
+ after installing everything enter
+    flask app hello run
